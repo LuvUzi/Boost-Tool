@@ -20,9 +20,3 @@ A program for mass boost server with nitro tokens
 
 # ⚠️ Disclaimer ⚠️
 I am not responsible for what you do. The program is for educational purposes only!
-
-------------------------
-
-# 🖼️ Preview 🖼️
-
-![Preview](https://i.imgur.com/mOCF35s.png)
